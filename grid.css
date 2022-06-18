@@ -24,23 +24,23 @@ main div{
     text-align: center;
     border-radius: 5px;
 }
-.item-a{
-    background-color: rgba(132, 10, 247, 0.815);
+.first_container{
+    background-color: #69D2E7;
     grid-area: a;
 }
-.item-b{
-    background-color: gray;
+.second_container{
+    background-color: #A7DBD8;
     grid-area: b;
 }
-.item-c{
-    background-color: white;
+.third_container{
+    background-color: #E0E4CC;
     grid-area: c;
 }
-.item-d{
-    background-color: aquamarine;
+.fourth_container{
+    background-color: #F38630;
     grid-area: d;
 }
-.item-e{
-    background-color: antiquewhite;
+.fifth_container{
+    background-color: #FA6900;
     grid-area: e;
 }
